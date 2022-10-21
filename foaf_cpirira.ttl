@@ -16,7 +16,7 @@
    foaf:primaryTopic <#cpirira> ;
    dc:creator <#cpirira> .
 
-<#ah> a foaf:Person ;
+<#cpirira> a foaf:Person ;
    rdfs:label "Cristobal Pereira"@en ,  "Cristóbal Pereira"@es ;
    rdfs:comment "Student of the DCC"@en , "Estudiante del DCC"@es ;
    foaf:name "Cristobal Pereira" ;
